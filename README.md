@@ -1,3 +1,4 @@
+YOLO test
 # 🚢 Titanic Survival Prediction - Streamlit App
 
 This project is a **Machine Learning Web Application** built with **Streamlit** that predicts whether a passenger aboard the Titanic would survive or not based on their personal and travel details.
@@ -153,4 +154,7 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
+Added YOLO test line
+## 🎯 YOLO Achievement  
+**YOLO Test:** Added YOLO achievement line to highlight project completion and confidence. 🚀  
 ⭐ If you like this project, don’t forget to **star the repo!**
