@@ -25,3 +25,5 @@ The model is trained on the famous [Titanic - Machine Learning from Disaster](ht
 ---
 
 Added YOLO test line
+## 🎯 YOLO Achievement  
+**YOLO Test:** Added YOLO achievement line to highlight project completion and confidence. 🚀  
